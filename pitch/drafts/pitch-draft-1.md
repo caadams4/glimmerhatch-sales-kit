@@ -21,6 +21,8 @@ helping by week four, you will know, and so will we.
 Logistics operations do not have spare months to wait for a strategy report.
 Sprints fit the shape of the work.
 
+> Kofi's comment: cut this section by half, logistics people skim.
+
 ## What a sprint looks like
 
 - Week 1: look at how work really flows (we go to the depot, we do not
