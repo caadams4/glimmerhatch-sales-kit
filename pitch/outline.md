@@ -1,7 +1,7 @@
 # Logistics pitch: working outline
 
 1. The problem in the buyer's words (late, lumpy, invisible)
-2. Why fixed-scope sprints suit logistics
+2. Why fixed-scope sprints suit logistics (tighter now, see draft 1)
 3. What a sprint looks like week by week
 4. Three places we usually start: dock scheduling, route data, billing exceptions
 5. Case studies (pick two per audience)
