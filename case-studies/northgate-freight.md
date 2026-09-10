@@ -21,7 +21,7 @@ read on a phone. Week four was handover and training.
 ## What changed
 
 Average dock turnaround fell from roughly 62 minutes to roughly 49.
-(TODO: confirm the measuring period with StrikeOne, I think it was March to May.)
+Measured over the three months before and after the sprint.
 
 ## In their words
 
@@ -29,5 +29,5 @@ Average dock turnaround fell from roughly 62 minutes to roughly 49.
 
 ## Notes for us (delete before sending)
 
-- Source of figures: StrikeOne delivery summary, need the raw table
-- Client approval status: not asked yet
+- Source of figures: StrikeOne delivery summary, table received 9 Sep
+- Client approval status: figures approved, quote still pending
