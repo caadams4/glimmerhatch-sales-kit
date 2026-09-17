@@ -24,3 +24,20 @@ logistics director who has eleven minutes and a delayed pallet to deal with.
 - Claims we cannot back with an engagement. If we cannot name the sprint, we
   cannot say it.
 - Exclamation marks (I know, I know. I use them in emails. Not in the kit.)
+
+## Dos and don'ts, by example
+
+Do: "Fenwick found out about a temperature breach in under 40 minutes,
+instead of the next morning."
+
+Don't: "Fenwick leveraged real-time visibility to drive proactive exception
+management."
+
+Do: "We go to the depot."
+
+Don't: "We conduct on-site discovery activities."
+
+## Tone check
+
+Read it aloud. If you would not say it to the person across the table,
+rewrite it.
