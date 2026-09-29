@@ -24,7 +24,7 @@ Most four-week sprints fall in the low-to-mid five figures.
 
 1. **Dock and slot scheduling.** Northgate Freight cut dock turnaround by
    about a fifth in four weeks.
-2. **Route and delivery data.** Cleaner data at source, fewer arguments later.
+2. **Route and delivery data.** Cleaner data at the source, fewer arguments later.
 3. **Billing exceptions.** Harbourline Distribution halved the invoices
    that bounce.
 
