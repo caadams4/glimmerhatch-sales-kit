@@ -8,6 +8,7 @@
 6. Northgate Freight: dock turnaround down by a fifth
 7. Harbourline Distribution: billing exceptions halved
 8. Fenwick Cold Chain: breaches caught in minutes
+8b. Calder Wharf: two weeks, one planner, a holiday
 9. Typical sprint cost (range only)
 10. Who you would work with
 11. Next step: 30-minute diagnostic call
