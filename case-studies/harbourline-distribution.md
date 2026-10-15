@@ -25,9 +25,9 @@ of the sprint ending.
 
 ## In their words
 
-"Finance stopped dreading month end." (waiting on approval)
+"Finance stopped dreading month end." (approved)
 
 ## Notes for us (delete before sending)
 
 - Source of figures: Pod Hobby summary slide
-- Client approval status: asked 12 Aug, no reply
+- Client approval status: approved 14 Oct, they changed 'dreading' to 'dreading' (kept it)
