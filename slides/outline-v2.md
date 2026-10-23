@@ -8,7 +8,7 @@
    Notes: three promises. Pause after "clear stop or go", that is the bit
    they remember.
 4. **A sprint, week by week**
-   Notes: single visual, must print in black and white.
+   Notes: single visual, must print in black and white. One word per week.
 5. **Where we start: dock, route data, billing**
 6. **Northgate Freight: dock turnaround down by a fifth**
 7. **Harbourline Distribution: billing exceptions halved**
@@ -19,5 +19,6 @@
     Notes: "low-to-mid five figures for most four-week sprints", then stop.
 11. **Who you would work with**
 12. **Next step: 30-minute diagnostic call**
+    Notes: for 3PLs, "same sprint, different dock."
 
 Appendix: how we measure results; sprint scope template.
