@@ -20,8 +20,7 @@ drivers and planners to actually use it.
 ## What changed
 
 Time from breach to first call-out dropped from "next morning" to under 40
-minutes on most runs. Customer complaints about chilled loads halved over
-the following quarter.
+minutes on most runs. 
 
 ## In their words
 
@@ -30,4 +29,4 @@ the following quarter.
 ## Notes for us (delete before sending)
 
 - Source of figures: Fenwick's own ops report, shared by StrikeOne
-- Client approval status: quote approved, figures not yet
+- Client approval status: quote approved; complaint figure removed 11 Nov while StrikeOne checks what Fenwick will allow
