@@ -17,7 +17,7 @@ that logistics people skim.
 | Folder | What it holds |
 |---|---|
 | `pitch/` | The pitch outline and three drafts. Draft 3 is the latest. |
-| `slides/` | Slide outlines (text, exported from the deck). `outline-v2.md` is current, and there is a frozen copy of what we presented. |
+| `slides/` | Slide outlines plus the working deck export (`sales_deck.pptx`, v1.1 draft with the 3PL slide). `outline-v2.md` is current, and there is a frozen copy of what we presented. |
 | `case-studies/` | Four write-ups with invented-for-publication names: Northgate, Harbourline, Fenwick and Calder Wharf. Real clients, changed names, rounded numbers. |
 | `brand-voice/` | The voice guide and a word list. Please read these before editing anything. |
 | `templates/` | The case-study template. |
@@ -25,8 +25,9 @@ that logistics people skim.
 
 ## How to work in here
 
-The actual deck lives in the shared document space (folder "Logistics 2026").
-Nothing here is a substitute for it, these are the words, not the design. If
+The designed deck lives in the shared document space (folder "Logistics 2026");
+the `slides/sales_deck.pptx` export here is the working copy, so you do not have
+to dig through the shared space for it. If
 you do change the deck, please change the matching outline too, or ask me
 and I will do it.
 
